@@ -1,4 +1,4 @@
-#9. Print a Centered Pyramid of Stars
+#9. Print a Centered Pyramid of Stars i
 n=int(input("enter a number="))
 for i in range(1,n+1):
     for j in range(n-i):
