@@ -1,1 +1,2 @@
 aa
+1.print pramid in center form
