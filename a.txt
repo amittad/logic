@@ -6,3 +6,4 @@ ARRY
 #2 . Find the sum of all elements in an array. 
 3. Find the average of array elements.
 4. Find the maximum element in an array
+5. Find the minimum element in an array
