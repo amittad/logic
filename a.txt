@@ -1,3 +1,4 @@
 aa
 1.print pramid in center form
 12. Print Repeated Numbers per Row (Same Number Repeated)
+addd numbers in array and print
