@@ -6,7 +6,6 @@ for i in range(sizeofarr):
     arr.append(n)
 print("enter a number grether than given value=")
 num=int(input("enter a number="))
-for i in arr:
-    if num<i:
-        print(i)    
+a=[i for i in arr if num<i]
+print(a)
 
