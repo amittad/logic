@@ -6,7 +6,7 @@ def multi(num1,num2):
     return add   
 
 
-a=multi(2,3)
+a=multi(5,10)
 print(a)
 
 
