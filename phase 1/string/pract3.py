@@ -7,4 +7,4 @@ for i in a:
  count+=1
  print(f"{[count]}=={i}")
 
-print(coun
+
