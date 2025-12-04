@@ -5,5 +5,9 @@ for i in range(1,101):
         even.append(i)
     else:
         odd.append(i)
-print(even)
-print(odd[::-1])            
+store=[]
+l=len(odd)
+for i in range(1,l):
+    a=even[i]+odd[i]
+    print(f"{even[i]}+{odd[i]}=={even[i]+odd[i]}")
+   
